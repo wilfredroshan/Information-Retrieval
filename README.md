@@ -1,5 +1,5 @@
 # Information-Retrieval
-information retrieval related work is here
+Information Retrieval related work is here
 
 * Code is developed using python 3.8 on jupyter notebook.
 * Python Code file name for Part-1: 2018HT13143_Part-1.ipynb
