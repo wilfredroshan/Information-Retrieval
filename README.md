@@ -18,7 +18,7 @@ Information Retrieval related work is here
 * Python Code file name for Part-2A (index construction):
   * boolean - Part-2A-Boolean-Search-Indexing.ipynb
   * relevance based - Part-2A-Relevance-Search-Indexing.ipynb
-* Python Code file name for Part-2B (query -  and ): Part-2-Querying-SM.ipynb
+* Python Code file name for Part-2B (query): Part-2-Querying-SM.ipynb
   * boolean - Part-2B-Boolean-Search-Querying.ipynb
   * relevance based - Part-2B-Relevance-Search-Querying.ipynb
 * All code files should be placed in same folder.
