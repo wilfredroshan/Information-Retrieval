@@ -16,11 +16,11 @@ Information Retrieval related work is here
 * Code is developed using python 3.8 on jupyter notebook.
 * Python Code file name for Part-1: Part-1-Text-Corpus-Analysis.ipynb
 * Python Code file name for Part-2A (index construction):
-** boolean - Part-2A-Boolean-Search-Indexing.ipynb
-** relevance based - Part-2A-Relevance-Search-Indexing.ipynb
+  * boolean - Part-2A-Boolean-Search-Indexing.ipynb
+  * relevance based - Part-2A-Relevance-Search-Indexing.ipynb
 * Python Code file name for Part-2B (query -  and ): Part-2-Querying-SM.ipynb
-** boolean - Part-2B-Boolean-Search-Querying.ipynb
-** relevance based - Part-2B-Relevance-Search-Querying.ipynb
+  * boolean - Part-2B-Boolean-Search-Querying.ipynb
+  * relevance based - Part-2B-Relevance-Search-Querying.ipynb
 * All code files should be placed in same folder.
 * Data files must be placed in a folder named “data” in current folder where notebook files are placed.
 
